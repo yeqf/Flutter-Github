@@ -83,3 +83,25 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# flutter
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
+.flutter-plugins-dependencies
+
+*.iml
+
+.idea/
+
+.gradle/
+
+ignoreConfig.dart
+
+flutter_export_environment.sh
